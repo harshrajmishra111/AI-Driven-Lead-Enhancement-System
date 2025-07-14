@@ -53,6 +53,5 @@ The churn detection feature is a conceptual add-on; integrate it with additional
 
 Contact
 I’m passionate about business innovation and eager to join Caprae Capital. Thank you for considering my work—I hope to hear from you soon!
-Email - harshrajmishra.hrm@gmail.com
 
-Email: [Your Email]
+Email: [harshrajmishra.hrm@gmail.com]
