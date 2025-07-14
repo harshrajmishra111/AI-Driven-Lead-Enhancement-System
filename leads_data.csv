@@ -1,0 +1,501 @@
+email,job_title,company,bio,industry,revenue_estimate,contract_status,contract_value
+jenny.greene@attackcorp.com,Founder,Attack Corp,Experienced retail executive,Retail,25857127,None,0
+andrew.hayes@qualityinc.com,CEO,Quality Inc,Leading innovation in retail industry,Retail,1403094,None,0
+gabriela.ellis@republicancorp.com,CFO,Republican Corp,Passionate about saas transformation,SaaS,23363606,None,0
+bradley.allen@democratpartners.com,Marketing Director,Democrat Partners,Driving growth for manufacturing solutions,Manufacturing,9629796,Active,342269
+steve.fuller@clearlypartners.com,VP of Sales,Clearly Partners,Passionate about energy transformation,Energy,18156306,None,0
+alan.hoover@economicinc.com,President,Economic Inc,Driving growth for retail solutions,Retail,31940294,Active,588111
+christopher.crawford@armtechnologies.com,CEO,Arm Technologies,Building the future of energy,Energy,40588041,Pending,449187
+mary.elliott@fortechnologies.com,CTO,For Technologies,Building the future of healthcare,Healthcare,38182719,Active,2244990
+todd.knapp@windsolutions.com,President,Wind Solutions,Experienced tech executive,Tech,12355503,None,0
+robert.hill@byinc.com,Operations Manager,By Inc,Leading innovation in energy industry,Energy,14333169,None,0
+marissa.long@fishllc.com,Operations Manager,Fish LLC,Leading innovation in manufacturing industry,Manufacturing,40546862,Active,3373474
+danny.rodriguez@downgroup.com,Founder,Down Group,Leading innovation in saas industry,SaaS,29181888,Active,3176247
+kathleen.love@cleartechnologies.com,Operations Manager,Clear Technologies,Building the future of saas,SaaS,21342749,None,0
+christopher.summers@discovercorp.com,President,Discover Corp,Focused on scaling tech operations,Tech,45504076,Pending,106117
+sharon.morales@southernpartners.com,Operations Manager,Southern Partners,Building the future of manufacturing,Manufacturing,47671681,Pending,1000602
+timothy.christian@animalllc.com,President,Animal LLC,Experienced retail executive,Retail,19787072,Active,2608405
+melissa.richardson@almosttechnologies.com,Marketing Director,Almost Technologies,Focused on scaling saas operations,SaaS,19616231,None,0
+caitlin.fernandez@opportunityllc.com,Operations Manager,Opportunity LLC,Leading innovation in logistics industry,Logistics,46265363,Active,2845361
+penny.vincent@legllc.com,Operations Manager,Leg LLC,Experienced energy executive,Energy,36707932,Active,4202150
+carl.rodriguez@pagesolutions.com,CTO,Page Solutions,Leading innovation in logistics industry,Logistics,24842171,Pending,4822689
+stacy.booth@theseinc.com,Marketing Director,These Inc,Building the future of tech,Tech,11795850,Pending,4449790
+kristine.nichols@voicegroup.com,CEO,Voice Group,Driving growth for manufacturing solutions,Manufacturing,14978090,Active,4422116
+cameron.lee@needcorp.com,CFO,Need Corp,Leading innovation in logistics industry,Logistics,48814909,None,0
+melissa.rogers@townsolutions.com,Marketing Director,Town Solutions,Leading innovation in manufacturing industry,Manufacturing,48491893,None,0
+maria.lopez@detailpartners.com,Founder,Detail Partners,Passionate about healthcare transformation,Healthcare,4043465,Active,1676660
+kathryn.gray@pullsolutions.com,CTO,Pull Solutions,Leading innovation in finance industry,Finance,49383337,None,0
+christopher.thomas@entersolutions.com,President,Enter Solutions,Experienced logistics executive,Logistics,23941835,None,0
+jacob.king@eventsolutions.com,President,Event Solutions,Driving growth for saas solutions,SaaS,30776985,Active,4688822
+amanda.collins@noticecorp.com,President,Notice Corp,Experienced energy executive,Energy,29086198,None,0
+leah.jones@shortllc.com,CTO,Short LLC,Building the future of manufacturing,Manufacturing,10922815,Active,1949757
+jacqueline.chen@yourselfllc.com,CTO,Yourself LLC,Building the future of logistics,Logistics,23528127,Active,4027020
+mary.pierce@stuffgroup.com,CFO,Stuff Group,Experienced healthcare executive,Healthcare,27142273,None,0
+emily.robinson@oncorp.com,Marketing Director,On Corp,Leading innovation in logistics industry,Logistics,14642137,None,0
+andrew.banks@figuresolutions.com,CTO,Figure Solutions,Leading innovation in saas industry,SaaS,49519003,Active,82863
+sara.barnes@recordpartners.com,CEO,Record Partners,Focused on scaling retail operations,Retail,31652057,Pending,279592
+kyle.king@occurpartners.com,Founder,Occur Partners,Experienced energy executive,Energy,15510770,Pending,2847337
+sara.evans@mouthllc.com,Operations Manager,Mouth LLC,Focused on scaling saas operations,SaaS,2378022,Active,2153687
+beth.ramirez@bagpartners.com,Marketing Director,Bag Partners,Passionate about energy transformation,Energy,11264610,Active,3121607
+joseph.hernandez@explainllc.com,CEO,Explain LLC,Building the future of tech,Tech,19313854,None,0
+christine.morales@machinellc.com,President,Machine LLC,Building the future of retail,Retail,32620207,Active,2574941
+ryan.nichols@buycorp.com,VP of Sales,Buy Corp,Focused on scaling manufacturing operations,Manufacturing,35117955,None,0
+kenneth.rodriguez@enoughsolutions.com,CFO,Enough Solutions,Passionate about healthcare transformation,Healthcare,49093121,Active,212798
+madison.lopez@ratherinc.com,President,Rather Inc,Leading innovation in finance industry,Finance,13855577,Active,4138403
+anna.lamb@newspapertechnologies.com,CEO,Newspaper Technologies,Focused on scaling logistics operations,Logistics,32496565,None,0
+shawn.mccall@reflectinc.com,VP of Sales,Reflect Inc,Building the future of saas,SaaS,32028929,None,0
+amy.weaver@sonpartners.com,Founder,Son Partners,Leading innovation in finance industry,Finance,19009627,Active,2647847
+jonathon.douglas@hourpartners.com,VP of Sales,Hour Partners,Driving growth for retail solutions,Retail,35887654,None,0
+rachel.carter@gardenpartners.com,CTO,Garden Partners,Building the future of manufacturing,Manufacturing,6259556,Pending,1373975
+jacob.turner@variousinc.com,CEO,Various Inc,Passionate about tech transformation,Tech,19710315,Active,4180327
+andrew.orr@whosellc.com,CTO,Whose LLC,Driving growth for healthcare solutions,Healthcare,13513450,Active,326116
+matthew.perkins@afterinc.com,Founder,After Inc,Leading innovation in healthcare industry,Healthcare,46043732,Pending,889261
+ronald.eaton@pointsolutions.com,CFO,Point Solutions,Experienced energy executive,Energy,33812585,None,0
+fernando.thompson@savepartners.com,Founder,Save Partners,Passionate about logistics transformation,Logistics,17524431,Active,3336730
+grant.wright@sopartners.com,CFO,So Partners,Leading innovation in tech industry,Tech,17114115,Active,997796
+renee.pearson@schoolgroup.com,Founder,School Group,Driving growth for energy solutions,Energy,28173856,Pending,3004645
+cheryl.smith@officecorp.com,Founder,Office Corp,Building the future of tech,Tech,15773183,Pending,2300717
+angela.smith@spacesolutions.com,CFO,Space Solutions,Experienced saas executive,SaaS,31725880,None,0
+mark.jenkins@movesolutions.com,Marketing Director,Move Solutions,Building the future of retail,Retail,16208288,Pending,1598887
+lucas.woods@realgroup.com,CTO,Real Group,Building the future of tech,Tech,12317314,Pending,2616794
+jessica.baldwin@industrytechnologies.com,President,Industry Technologies,Focused on scaling healthcare operations,Healthcare,18666149,Active,59395
+diana.castaneda@standllc.com,VP of Sales,Stand LLC,Building the future of healthcare,Healthcare,27298790,None,0
+matthew.hall@lasttechnologies.com,Operations Manager,Last Technologies,Focused on scaling logistics operations,Logistics,21266103,None,0
+vanessa.marks@naturalinc.com,Marketing Director,Natural Inc,Leading innovation in manufacturing industry,Manufacturing,21652301,None,0
+melanie.black@restsolutions.com,Founder,Rest Solutions,Driving growth for healthcare solutions,Healthcare,26993330,None,0
+sabrina.wallace@lastpartners.com,CTO,Last Partners,Focused on scaling energy operations,Energy,35211738,Active,2800512
+charles.johnson@keysolutions.com,CFO,Key Solutions,Experienced manufacturing executive,Manufacturing,9982081,None,0
+eileen.gonzalez@richcorp.com,CFO,Rich Corp,Building the future of tech,Tech,19172871,None,0
+sara.nielsen@usuallygroup.com,CTO,Usually Group,Leading innovation in tech industry,Tech,41859892,None,0
+michael.roberts@mediainc.com,Operations Manager,Media Inc,Leading innovation in energy industry,Energy,33244544,Pending,4503954
+angela.sloan@clearlygroup.com,CEO,Clearly Group,Experienced tech executive,Tech,42602667,Active,1739217
+hector.walsh@animalsolutions.com,Marketing Director,Animal Solutions,Building the future of healthcare,Healthcare,42957227,Pending,777445
+jennifer.wilkerson@playtechnologies.com,CTO,Play Technologies,Focused on scaling tech operations,Tech,3684239,Pending,3160837
+jennifer.clark@muchcorp.com,CEO,Much Corp,Building the future of tech,Tech,38219210,Pending,3668584
+lauren.estes@throughoutcorp.com,Marketing Director,Throughout Corp,Leading innovation in energy industry,Energy,2262593,Pending,2639852
+julie.mckinney@southerngroup.com,VP of Sales,Southern Group,Focused on scaling logistics operations,Logistics,33663997,Active,2168902
+christine.johnson@yeahllc.com,CEO,Yeah LLC,Leading innovation in manufacturing industry,Manufacturing,31087303,None,0
+deborah.smith@assumesolutions.com,CEO,Assume Solutions,Leading innovation in tech industry,Tech,35307177,Pending,3098437
+jessica.cox@singllc.com,Founder,Sing LLC,Experienced energy executive,Energy,48433850,None,0
+savannah.massey@pasttechnologies.com,Marketing Director,Past Technologies,Driving growth for logistics solutions,Logistics,40732943,Pending,4046799
+scott.johnson@niceinc.com,President,Nice Inc,Driving growth for tech solutions,Tech,9463051,None,0
+david.mason@employeegroup.com,CTO,Employee Group,Driving growth for healthcare solutions,Healthcare,43897900,Active,250962
+pamela.decker@subjectsolutions.com,President,Subject Solutions,Driving growth for manufacturing solutions,Manufacturing,47915460,None,0
+paul.oconnor@stuffsolutions.com,VP of Sales,Stuff Solutions,Building the future of retail,Retail,28735011,None,0
+matthew.landry@letcorp.com,CEO,Let Corp,Building the future of manufacturing,Manufacturing,14604464,Pending,475840
+deborah.floyd@accordingcorp.com,CTO,According Corp,Leading innovation in energy industry,Energy,48030256,Active,2662641
+trevor.adams@justpartners.com,Founder,Just Partners,Leading innovation in healthcare industry,Healthcare,1801519,None,0
+joshua.hanson@sitellc.com,Marketing Director,Site LLC,Driving growth for finance solutions,Finance,39977189,Pending,4131386
+renee.mendoza@decidetechnologies.com,VP of Sales,Decide Technologies,Building the future of tech,Tech,45690190,Pending,503116
+steven.williams@challengecorp.com,Founder,Challenge Corp,Focused on scaling energy operations,Energy,12016796,None,0
+jennifer.carson@availablecorp.com,VP of Sales,Available Corp,Focused on scaling healthcare operations,Healthcare,19415544,None,0
+taylor.bryant@shareinc.com,President,Share Inc,Building the future of tech,Tech,36915154,Pending,1829123
+heidi.perry@termsolutions.com,Marketing Director,Term Solutions,Passionate about tech transformation,Tech,33150153,Pending,2246941
+emily.black@approachinc.com,CEO,Approach Inc,Driving growth for energy solutions,Energy,41765906,Active,2558831
+monica.smith@clearlyinc.com,CFO,Clearly Inc,Focused on scaling healthcare operations,Healthcare,1680623,None,0
+michelle.duran@filmpartners.com,President,Film Partners,Leading innovation in saas industry,SaaS,27271120,None,0
+yvonne.becker@reducepartners.com,Marketing Director,Reduce Partners,Passionate about healthcare transformation,Healthcare,30225696,Pending,2221706
+stacy.jensen@companyinc.com,President,Company Inc,Focused on scaling logistics operations,Logistics,47076796,Pending,535588
+james.coleman@protectgroup.com,CFO,Protect Group,Building the future of healthcare,Healthcare,41980781,Pending,2695974
+kristen.carlson@clearlypartners.com,CFO,Clearly Partners,Passionate about tech transformation,Tech,8780313,Active,3164404
+aaron.cruz@improvepartners.com,President,Improve Partners,Experienced saas executive,SaaS,7314476,Pending,1763544
+lisa.perry@headpartners.com,Marketing Director,Head Partners,Experienced healthcare executive,Healthcare,4339359,Active,287756
+tracy.hull@economicinc.com,CTO,Economic Inc,Driving growth for saas solutions,SaaS,39101133,Active,1758967
+taylor.smith@lawsolutions.com,CTO,Law Solutions,Leading innovation in saas industry,SaaS,48758979,None,0
+robert.richardson@evertechnologies.com,Marketing Director,Ever Technologies,Focused on scaling retail operations,Retail,7358391,None,0
+tara.brown@toptechnologies.com,VP of Sales,Top Technologies,Experienced healthcare executive,Healthcare,21251515,Pending,2155392
+heidi.jones@schoolgroup.com,President,School Group,Passionate about retail transformation,Retail,12184473,Active,4815014
+brenda.allen@usuallyinc.com,President,Usually Inc,Leading innovation in energy industry,Energy,24337267,Active,2691796
+spencer.gibson@riseinc.com,CEO,Rise Inc,Passionate about logistics transformation,Logistics,23087997,Active,2912903
+joy.mcdaniel@areapartners.com,Marketing Director,Area Partners,Leading innovation in manufacturing industry,Manufacturing,41393514,Pending,3441031
+henry.weaver@fewcorp.com,President,Few Corp,Focused on scaling logistics operations,Logistics,7506875,Active,4675665
+patricia.frazier@streetinc.com,CEO,Street Inc,Leading innovation in manufacturing industry,Manufacturing,39033754,None,0
+james.reyes@costtechnologies.com,President,Cost Technologies,Driving growth for finance solutions,Finance,13543119,Pending,4265498
+derrick.carter@addinc.com,CTO,Add Inc,Driving growth for healthcare solutions,Healthcare,22777251,None,0
+pamela.mendoza@atllc.com,Marketing Director,At LLC,Passionate about healthcare transformation,Healthcare,18295662,None,0
+erin.gaines@agreecorp.com,VP of Sales,Agree Corp,Passionate about healthcare transformation,Healthcare,31813671,Active,53139
+brandi.mathews@insolutions.com,Operations Manager,In Solutions,Experienced retail executive,Retail,17329113,Active,4875483
+sherry.carr@spendllc.com,VP of Sales,Spend LLC,Driving growth for manufacturing solutions,Manufacturing,22694685,Active,4439126
+michael.stevens@preventtechnologies.com,Founder,Prevent Technologies,Passionate about tech transformation,Tech,19957019,None,0
+toni.wheeler@receivecorp.com,President,Receive Corp,Driving growth for tech solutions,Tech,31288585,None,0
+amanda.walker@reportgroup.com,Founder,Report Group,Building the future of retail,Retail,47682439,None,0
+annette.hoover@theyllc.com,CFO,They LLC,Building the future of finance,Finance,14886564,None,0
+lauren.sanchez@ratecorp.com,President,Rate Corp,Focused on scaling healthcare operations,Healthcare,18318490,Pending,1588903
+brittany.dominguez@designinc.com,CEO,Design Inc,Experienced tech executive,Tech,38110594,Pending,4896641
+amy.campbell@footcorp.com,President,Foot Corp,Experienced manufacturing executive,Manufacturing,16610734,Active,2354455
+julie.smith@theysolutions.com,CEO,They Solutions,Driving growth for manufacturing solutions,Manufacturing,21745971,Pending,202105
+anita.moore@schoolcorp.com,Operations Manager,School Corp,Experienced healthcare executive,Healthcare,9042759,Pending,522037
+michael.david@languagellc.com,Operations Manager,Language LLC,Passionate about saas transformation,SaaS,6141821,None,0
+robert.kirk@picksolutions.com,CFO,Pick Solutions,Passionate about energy transformation,Energy,16362203,Pending,1562630
+anthony.hall@createpartners.com,President,Create Partners,Focused on scaling saas operations,SaaS,44025868,Pending,3400636
+jamie.chavez@armsolutions.com,VP of Sales,Arm Solutions,Building the future of finance,Finance,30274264,Pending,3277800
+danny.wagner@ontocorp.com,CEO,Onto Corp,Experienced manufacturing executive,Manufacturing,29500801,None,0
+william.johnson@itselfpartners.com,President,Itself Partners,Driving growth for saas solutions,SaaS,48289689,Pending,993667
+todd.moore@placellc.com,CEO,Place LLC,Passionate about saas transformation,SaaS,19481683,Active,4996532
+john.erickson@eitherpartners.com,President,Either Partners,Experienced logistics executive,Logistics,35796812,Active,2861934
+bobby.butler@formertechnologies.com,CEO,Former Technologies,Driving growth for tech solutions,Tech,34190652,None,0
+james.parsons@discusscorp.com,Founder,Discuss Corp,Building the future of logistics,Logistics,49040550,None,0
+ronald.fox@goaltechnologies.com,CTO,Goal Technologies,Passionate about logistics transformation,Logistics,19183186,Active,2460935
+gary.oneal@aroundinc.com,CEO,Around Inc,Focused on scaling retail operations,Retail,27866239,None,0
+mark.martinez@probablyinc.com,VP of Sales,Probably Inc,Leading innovation in saas industry,SaaS,19121443,None,0
+crystal.oliver@partllc.com,CTO,Part LLC,Driving growth for finance solutions,Finance,46053960,Active,3605613
+cynthia.lopez@someonesolutions.com,President,Someone Solutions,Focused on scaling energy operations,Energy,43788603,Active,1010535
+veronica.valentine@parentcorp.com,Founder,Parent Corp,Leading innovation in saas industry,SaaS,47123014,None,0
+hector.cruz@thussolutions.com,Operations Manager,Thus Solutions,Building the future of logistics,Logistics,21919933,None,0
+wesley.conley@voicecorp.com,VP of Sales,Voice Corp,Building the future of energy,Energy,13213585,Active,3837139
+william.walsh@thoseinc.com,Founder,Those Inc,Passionate about manufacturing transformation,Manufacturing,28451763,Active,2404580
+ryan.carroll@stationtechnologies.com,CFO,Station Technologies,Building the future of finance,Finance,22482785,Pending,2294737
+louis.ramsey@todaypartners.com,VP of Sales,Today Partners,Leading innovation in retail industry,Retail,24120808,None,0
+brian.delacruz@entercorp.com,CTO,Enter Corp,Driving growth for finance solutions,Finance,7774161,Active,2035138
+joseph.montoya@ownergroup.com,Operations Manager,Owner Group,Driving growth for manufacturing solutions,Manufacturing,18371249,None,0
+jason.kelly@wifesolutions.com,President,Wife Solutions,Passionate about retail transformation,Retail,34280024,Pending,1297325
+frances.young@perllc.com,CEO,Per LLC,Leading innovation in finance industry,Finance,4918387,Pending,2583852
+courtney.merritt@termtechnologies.com,Operations Manager,Term Technologies,Focused on scaling energy operations,Energy,12941870,Active,1569387
+jared.wright@ownerpartners.com,President,Owner Partners,Building the future of tech,Tech,41843585,Active,1470973
+crystal.hoffman@structurellc.com,CEO,Structure LLC,Passionate about saas transformation,SaaS,37847663,None,0
+bruce.medina@westernpartners.com,CFO,Western Partners,Passionate about logistics transformation,Logistics,31239421,Pending,2590621
+tanya.goodman@choosesolutions.com,Operations Manager,Choose Solutions,Passionate about saas transformation,SaaS,45468084,Pending,3696247
+jose.farley@issueinc.com,Operations Manager,Issue Inc,Focused on scaling saas operations,SaaS,45893394,Active,4356054
+carla.robinson@althoughgroup.com,CFO,Although Group,Focused on scaling finance operations,Finance,15008957,Pending,1868824
+christopher.franco@developmentpartners.com,CEO,Development Partners,Focused on scaling energy operations,Energy,36201550,None,0
+anne.barry@powerinc.com,VP of Sales,Power Inc,Leading innovation in tech industry,Tech,4867935,Active,4805769
+leslie.kelly@legsolutions.com,Marketing Director,Leg Solutions,Passionate about logistics transformation,Logistics,28665574,Pending,1864722
+rick.walker@hundredinc.com,VP of Sales,Hundred Inc,Driving growth for retail solutions,Retail,16427589,None,0
+brian.rodriguez@specialllc.com,CEO,Special LLC,Experienced healthcare executive,Healthcare,34779568,None,0
+christina.alvarez@ussolutions.com,Operations Manager,Us Solutions,Driving growth for energy solutions,Energy,40606094,None,0
+elizabeth.conner@kidgroup.com,President,Kid Group,Focused on scaling manufacturing operations,Manufacturing,27083126,None,0
+james.gonzalez@reflectinc.com,President,Reflect Inc,Driving growth for logistics solutions,Logistics,4090156,None,0
+thomas.morgan@lawyerpartners.com,Marketing Director,Lawyer Partners,Building the future of finance,Finance,27967755,Pending,3932124
+stacy.johnson@fullpartners.com,Marketing Director,Full Partners,Experienced healthcare executive,Healthcare,15491474,Pending,3156243
+thomas.foster@movementinc.com,Founder,Movement Inc,Focused on scaling healthcare operations,Healthcare,32281437,Pending,2561502
+charles.carter@focusinc.com,CFO,Focus Inc,Driving growth for finance solutions,Finance,36986948,None,0
+emily.hester@particularlysolutions.com,VP of Sales,Particularly Solutions,Building the future of logistics,Logistics,1118018,Pending,1274321
+haley.hill@movecorp.com,CFO,Move Corp,Building the future of energy,Energy,43850727,Pending,4580381
+christopher.bautista@itpartners.com,CFO,It Partners,Leading innovation in manufacturing industry,Manufacturing,22455344,None,0
+rebecca.campos@togethergroup.com,VP of Sales,Together Group,Leading innovation in tech industry,Tech,28852344,Pending,2059961
+jason.garcia@seekinc.com,Founder,Seek Inc,Experienced logistics executive,Logistics,33928068,None,0
+matthew.blair@democratsolutions.com,Operations Manager,Democrat Solutions,Passionate about healthcare transformation,Healthcare,13214600,Pending,4549527
+robert.perry@methodllc.com,President,Method LLC,Experienced saas executive,SaaS,1186291,Active,3833017
+william.pierce@coursegroup.com,Marketing Director,Course Group,Leading innovation in saas industry,SaaS,27966635,Pending,4780944
+sandra.thomas@wifesolutions.com,President,Wife Solutions,Driving growth for saas solutions,SaaS,12968404,Active,3221275
+molly.lewis@forcepartners.com,President,Force Partners,Focused on scaling retail operations,Retail,25438591,None,0
+shaun.johnson@talktechnologies.com,CEO,Talk Technologies,Experienced tech executive,Tech,30847497,Pending,4150804
+elizabeth.harris@severalcorp.com,President,Several Corp,Focused on scaling manufacturing operations,Manufacturing,13558047,None,0
+jasmine.sosa@propertysolutions.com,VP of Sales,Property Solutions,Experienced energy executive,Energy,13518319,Pending,1384482
+jennifer.moyer@responsibilitygroup.com,CTO,Responsibility Group,Driving growth for manufacturing solutions,Manufacturing,25699197,Active,4698416
+sherry.church@servicecorp.com,Operations Manager,Service Corp,Passionate about energy transformation,Energy,20633891,None,0
+patrick.burns@risesolutions.com,CEO,Rise Solutions,Passionate about retail transformation,Retail,35098149,Pending,132903
+susan.williams@lawinc.com,CEO,Law Inc,Building the future of tech,Tech,1517074,Active,1591376
+johnny.gonzalez@attentioninc.com,Marketing Director,Attention Inc,Passionate about healthcare transformation,Healthcare,26852478,Pending,1448166
+william.white@lighttechnologies.com,CEO,Light Technologies,Experienced manufacturing executive,Manufacturing,35739314,Active,3497967
+jennifer.salinas@alreadypartners.com,Founder,Already Partners,Driving growth for saas solutions,SaaS,7241713,Active,1042188
+tina.neal@nearlyllc.com,CTO,Nearly LLC,Experienced finance executive,Finance,21482940,Pending,3384103
+elizabeth.padilla@barinc.com,CEO,Bar Inc,Focused on scaling manufacturing operations,Manufacturing,15576881,Active,3083134
+amanda.oneal@abilitygroup.com,CTO,Ability Group,Driving growth for saas solutions,SaaS,24595199,Pending,2623190
+scott.king@congressllc.com,VP of Sales,Congress LLC,Building the future of logistics,Logistics,40030339,None,0
+james.davis@havecorp.com,VP of Sales,Have Corp,Leading innovation in manufacturing industry,Manufacturing,35969649,Active,338559
+paul.robertson@tablepartners.com,CFO,Table Partners,Building the future of logistics,Logistics,43890549,Active,2463367
+maureen.thomas@expertllc.com,CEO,Expert LLC,Passionate about healthcare transformation,Healthcare,21532561,None,0
+richard.wilson@handsolutions.com,President,Hand Solutions,Leading innovation in retail industry,Retail,46030970,Active,2773171
+ann.mann@shellc.com,Founder,She LLC,Building the future of saas,SaaS,48621682,None,0
+kelly.jackson@whenllc.com,CTO,When LLC,Passionate about tech transformation,Tech,9170935,None,0
+raymond.bell@medicalinc.com,CEO,Medical Inc,Experienced healthcare executive,Healthcare,9214192,Pending,1528159
+charles.williams@recordcorp.com,Operations Manager,Record Corp,Passionate about energy transformation,Energy,33986346,None,0
+christine.moore@verysolutions.com,Founder,Very Solutions,Passionate about manufacturing transformation,Manufacturing,29258869,None,0
+gregory.hall@researchsolutions.com,CEO,Research Solutions,Passionate about energy transformation,Energy,23685836,Pending,301095
+catherine.thomas@discoverllc.com,CTO,Discover LLC,Experienced logistics executive,Logistics,7077586,Active,142391
+chloe.zhang@missioninc.com,CFO,Mission Inc,Passionate about energy transformation,Energy,39189252,None,0
+martin.munoz@leadinc.com,CFO,Lead Inc,Passionate about saas transformation,SaaS,44815701,Pending,267362
+holly.griffith@bestsolutions.com,Founder,Best Solutions,Driving growth for logistics solutions,Logistics,49512012,Active,1321709
+jason.dawson@trialinc.com,Founder,Trial Inc,Focused on scaling finance operations,Finance,28088631,None,0
+colleen.ferguson@educationinc.com,CEO,Education Inc,Experienced energy executive,Energy,32654640,Pending,621396
+james.moore@democraticpartners.com,CEO,Democratic Partners,Focused on scaling saas operations,SaaS,42453489,None,0
+amanda.arroyo@tencorp.com,CTO,Ten Corp,Passionate about retail transformation,Retail,7206641,None,0
+douglas.carter@knowledgesolutions.com,CEO,Knowledge Solutions,Leading innovation in retail industry,Retail,37930379,Pending,1627165
+erin.rogers@investmentgroup.com,VP of Sales,Investment Group,Passionate about energy transformation,Energy,27345874,Pending,3655801
+theresa.perry@elsecorp.com,CEO,Else Corp,Building the future of manufacturing,Manufacturing,49396091,Active,945916
+matthew.bradford@ballpartners.com,Founder,Ball Partners,Building the future of energy,Energy,13563388,None,0
+kristin.hale@environmentgroup.com,CTO,Environment Group,Leading innovation in logistics industry,Logistics,7535906,Pending,1016589
+tammy.mayo@againgroup.com,CFO,Again Group,Passionate about manufacturing transformation,Manufacturing,25723071,Active,2194743
+samuel.cross@datainc.com,CFO,Data Inc,Driving growth for saas solutions,SaaS,37777087,Active,2964238
+stephanie.willis@officialllc.com,CFO,Official LLC,Focused on scaling retail operations,Retail,45951150,None,0
+ashley.lewis@sitetechnologies.com,Operations Manager,Site Technologies,Leading innovation in retail industry,Retail,42243186,Active,2042116
+tyrone.arnold@mepartners.com,CTO,Me Partners,Passionate about manufacturing transformation,Manufacturing,32276162,None,0
+kayla.marshall@newtechnologies.com,President,New Technologies,Driving growth for logistics solutions,Logistics,8392481,Pending,4944978
+robin.white@wegroup.com,CEO,We Group,Building the future of logistics,Logistics,14221122,None,0
+jacqueline.walls@producegroup.com,VP of Sales,Produce Group,Focused on scaling manufacturing operations,Manufacturing,31288281,None,0
+benjamin.vazquez@cameratechnologies.com,CEO,Camera Technologies,Passionate about retail transformation,Retail,37333817,None,0
+johnny.wright@itemsolutions.com,CEO,Item Solutions,Experienced tech executive,Tech,32072153,Active,498777
+kimberly.williams@askcorp.com,CEO,Ask Corp,Passionate about logistics transformation,Logistics,13404044,Pending,3990947
+maria.weeks@humantechnologies.com,Marketing Director,Human Technologies,Passionate about logistics transformation,Logistics,28039822,Active,784326
+madison.johnson@foreignsolutions.com,Founder,Foreign Solutions,Experienced manufacturing executive,Manufacturing,1474235,None,0
+joanne.reese@troubleinc.com,CTO,Trouble Inc,Driving growth for tech solutions,Tech,3229762,Pending,3889196
+gabrielle.wilson@commoncorp.com,CFO,Common Corp,Building the future of finance,Finance,47239589,Pending,3083496
+matthew.norton@socialpartners.com,President,Social Partners,Experienced logistics executive,Logistics,41500369,Active,224029
+joseph.williams@everytechnologies.com,CEO,Every Technologies,Driving growth for logistics solutions,Logistics,21311238,Active,3578534
+kimberly.jordan@tellgroup.com,CTO,Tell Group,Focused on scaling healthcare operations,Healthcare,33781141,Active,781693
+christopher.hall@amongpartners.com,President,Among Partners,Leading innovation in healthcare industry,Healthcare,38284012,Pending,2826173
+sabrina.lester@riskllc.com,President,Risk LLC,Leading innovation in logistics industry,Logistics,18851150,None,0
+kathleen.walker@includesolutions.com,CEO,Include Solutions,Experienced finance executive,Finance,48937203,None,0
+jennifer.jones@sometimesinc.com,CEO,Sometimes Inc,Experienced logistics executive,Logistics,27705019,Active,288281
+paul.ellis@hourgroup.com,Marketing Director,Hour Group,Leading innovation in tech industry,Tech,19293838,None,0
+nicole.robertson@cellsolutions.com,CEO,Cell Solutions,Leading innovation in retail industry,Retail,30334008,Pending,4811527
+matthew.fernandez@daygroup.com,President,Day Group,Passionate about logistics transformation,Logistics,38114908,Pending,2198230
+joseph.hays@probablytechnologies.com,CFO,Probably Technologies,Building the future of retail,Retail,3390968,Active,4282578
+william.bernard@tryinc.com,CFO,Try Inc,Driving growth for finance solutions,Finance,45739742,None,0
+jacqueline.pacheco@resultsolutions.com,CTO,Result Solutions,Leading innovation in saas industry,SaaS,46996559,None,0
+erica.carr@cuppartners.com,CFO,Cup Partners,Driving growth for tech solutions,Tech,40731421,Active,2412622
+jermaine.fernandez@muchpartners.com,CTO,Much Partners,Focused on scaling finance operations,Finance,15583336,None,0
+april.day@safecorp.com,President,Safe Corp,Leading innovation in logistics industry,Logistics,35676175,Pending,3352541
+william.garcia@pushpartners.com,VP of Sales,Push Partners,Driving growth for retail solutions,Retail,11943250,Active,3612020
+cody.rodriguez@surepartners.com,VP of Sales,Sure Partners,Focused on scaling logistics operations,Logistics,43890899,Pending,4688075
+jo.gray@clearcorp.com,Marketing Director,Clear Corp,Focused on scaling finance operations,Finance,44070139,None,0
+scott.gill@springgroup.com,VP of Sales,Spring Group,Passionate about logistics transformation,Logistics,7702181,Active,2908708
+robert.bean@necessarygroup.com,CFO,Necessary Group,Experienced saas executive,SaaS,48994954,None,0
+larry.mahoney@learninc.com,Marketing Director,Learn Inc,Driving growth for energy solutions,Energy,40993138,None,0
+todd.smith@naturaltechnologies.com,Founder,Natural Technologies,Focused on scaling finance operations,Finance,9944718,Pending,1502615
+lindsay.perkins@mainsolutions.com,Founder,Main Solutions,Building the future of finance,Finance,27211006,Active,2760001
+christopher.vasquez@respondgroup.com,Founder,Respond Group,Focused on scaling energy operations,Energy,24317548,Pending,1339696
+willie.fischer@otherstechnologies.com,Marketing Director,Others Technologies,Leading innovation in saas industry,SaaS,1766925,Active,164892
+david.miller@aboveinc.com,CFO,Above Inc,Experienced manufacturing executive,Manufacturing,2008125,None,0
+scott.pratt@togethergroup.com,Operations Manager,Together Group,Building the future of healthcare,Healthcare,47311885,None,0
+julia.lara@standardinc.com,CFO,Standard Inc,Passionate about saas transformation,SaaS,20889498,Pending,4304639
+michelle.murphy@healthgroup.com,Founder,Health Group,Leading innovation in saas industry,SaaS,15146830,None,0
+joseph.gray@enjoyllc.com,CEO,Enjoy LLC,Experienced tech executive,Tech,45833365,Active,4676909
+cynthia.jones@artistcorp.com,Marketing Director,Artist Corp,Experienced healthcare executive,Healthcare,4277904,Active,3042261
+christina.jones@rightllc.com,CTO,Right LLC,Passionate about manufacturing transformation,Manufacturing,37614348,Active,590125
+daniel.james@strategygroup.com,President,Strategy Group,Driving growth for tech solutions,Tech,44786551,Pending,2369832
+amy.mendez@intopartners.com,CTO,Into Partners,Focused on scaling healthcare operations,Healthcare,49559395,None,0
+michael.wong@remainllc.com,CTO,Remain LLC,Building the future of healthcare,Healthcare,5824148,Active,4870748
+bradley.miller@warllc.com,Marketing Director,War LLC,Driving growth for finance solutions,Finance,6946780,Pending,778320
+rodney.morgan@abilitygroup.com,President,Ability Group,Building the future of healthcare,Healthcare,9113455,Pending,362361
+susan.sanford@herellc.com,Operations Manager,Here LLC,Leading innovation in logistics industry,Logistics,15797624,Active,1609156
+christian.ingram@casegroup.com,VP of Sales,Case Group,Passionate about saas transformation,SaaS,41231367,None,0
+rachel.williams@stafftechnologies.com,VP of Sales,Staff Technologies,Experienced tech executive,Tech,9363118,Pending,2154133
+ashley.williams@darkcorp.com,CEO,Dark Corp,Passionate about energy transformation,Energy,4390234,None,0
+brian.snyder@toogroup.com,CTO,Too Group,Leading innovation in tech industry,Tech,27181396,None,0
+julie.price@stageinc.com,President,Stage Inc,Passionate about tech transformation,Tech,19670160,None,0
+carol.braun@fullpartners.com,CEO,Full Partners,Experienced finance executive,Finance,17920591,Active,832536
+pamela.woods@whytechnologies.com,CFO,Why Technologies,Focused on scaling energy operations,Energy,27388908,Pending,842878
+dana.powell@culturalsolutions.com,CEO,Cultural Solutions,Building the future of saas,SaaS,32627471,None,0
+susan.lee@sendgroup.com,CEO,Send Group,Passionate about logistics transformation,Logistics,5094393,Pending,1729865
+beth.snow@authoritygroup.com,President,Authority Group,Experienced saas executive,SaaS,14442436,Pending,2281943
+victoria.rhodes@mightsolutions.com,VP of Sales,Might Solutions,Focused on scaling tech operations,Tech,4583968,Active,4630197
+joseph.williams@bygroup.com,CEO,By Group,Building the future of retail,Retail,16300106,Active,1263801
+kimberly.hill@shakecorp.com,VP of Sales,Shake Corp,Leading innovation in manufacturing industry,Manufacturing,46029279,Pending,1175206
+kyle.gordon@getllc.com,Operations Manager,Get LLC,Experienced finance executive,Finance,34129551,Pending,2123327
+joshua.parker@recognizellc.com,CFO,Recognize LLC,Building the future of manufacturing,Manufacturing,31979885,Pending,1779752
+brad.price@mentionsolutions.com,CEO,Mention Solutions,Experienced saas executive,SaaS,15456971,Pending,1137595
+amy.guerra@truthcorp.com,Operations Manager,Truth Corp,Building the future of finance,Finance,13655789,None,0
+toni.ryan@wifetechnologies.com,Operations Manager,Wife Technologies,Passionate about healthcare transformation,Healthcare,26075707,Active,3788468
+michelle.douglas@facesolutions.com,CTO,Face Solutions,Driving growth for logistics solutions,Logistics,2427306,Active,3857120
+heidi.flowers@safeinc.com,President,Safe Inc,Focused on scaling saas operations,SaaS,38658177,None,0
+eric.mann@decisiongroup.com,VP of Sales,Decision Group,Leading innovation in retail industry,Retail,29248901,Pending,4921996
+jason.steele@agentgroup.com,Marketing Director,Agent Group,Focused on scaling energy operations,Energy,17531342,Active,4680424
+patrick.hamilton@performllc.com,Founder,Perform LLC,Driving growth for energy solutions,Energy,36907605,Active,2854949
+james.lopez@wantpartners.com,VP of Sales,Want Partners,Leading innovation in healthcare industry,Healthcare,31686444,None,0
+joshua.terry@usegroup.com,Marketing Director,Use Group,Building the future of energy,Energy,46595380,Pending,621605
+christian.martin@itechnologies.com,CEO,I Technologies,Leading innovation in logistics industry,Logistics,27184978,Active,653080
+sarah.moore@risellc.com,CFO,Rise LLC,Experienced logistics executive,Logistics,29665934,Active,4807074
+shelby.burton@termpartners.com,CEO,Term Partners,Building the future of retail,Retail,21354782,Pending,3778865
+gina.torres@usecorp.com,Founder,Use Corp,Experienced logistics executive,Logistics,10438678,Active,2584463
+brandon.davis@variouspartners.com,Founder,Various Partners,Passionate about retail transformation,Retail,24619853,Active,2072100
+andrew.smith@statetechnologies.com,CEO,State Technologies,Driving growth for manufacturing solutions,Manufacturing,35554355,Pending,1613630
+craig.bennett@sidecorp.com,CFO,Side Corp,Driving growth for healthcare solutions,Healthcare,36772599,Active,1337375
+alexander.bailey@addtechnologies.com,President,Add Technologies,Building the future of finance,Finance,11900082,None,0
+lindsey.johns@usuallysolutions.com,VP of Sales,Usually Solutions,Driving growth for energy solutions,Energy,17945673,Pending,1883476
+rachel.rivera@eveningsolutions.com,CTO,Evening Solutions,Driving growth for saas solutions,SaaS,28208439,None,0
+kyle.harmon@readgroup.com,Operations Manager,Read Group,Passionate about manufacturing transformation,Manufacturing,29320615,None,0
+amber.banks@hearcorp.com,Founder,Hear Corp,Building the future of tech,Tech,34502714,Pending,4949546
+henry.hammond@interviewinc.com,VP of Sales,Interview Inc,Building the future of logistics,Logistics,2445867,None,0
+thomas.james@approachinc.com,VP of Sales,Approach Inc,Leading innovation in retail industry,Retail,28145081,Pending,73718
+morgan.mcdonald@hotinc.com,CEO,Hot Inc,Building the future of finance,Finance,39244889,Active,3019072
+mark.hamilton@giveinc.com,CEO,Give Inc,Leading innovation in tech industry,Tech,26863887,None,0
+brandon.hickman@investmentllc.com,CEO,Investment LLC,Driving growth for energy solutions,Energy,31400153,Active,125836
+brian.carter@campaigninc.com,CFO,Campaign Inc,Experienced energy executive,Energy,11131842,Active,3023707
+grant.white@everytechnologies.com,Operations Manager,Every Technologies,Passionate about healthcare transformation,Healthcare,25478067,Active,1865486
+mary.bright@moderncorp.com,President,Modern Corp,Leading innovation in logistics industry,Logistics,6682230,Active,2820582
+ralph.miller@interestingcorp.com,CFO,Interesting Corp,Driving growth for tech solutions,Tech,16814359,None,0
+edward.willis@economyllc.com,CEO,Economy LLC,Focused on scaling finance operations,Finance,35578191,Active,808847
+mary.lucas@losstechnologies.com,CEO,Loss Technologies,Focused on scaling finance operations,Finance,12159345,Active,3748348
+brittany.chapman@wingroup.com,CEO,Win Group,Building the future of manufacturing,Manufacturing,4743222,Pending,1269334
+patricia.black@foreignsolutions.com,CFO,Foreign Solutions,Passionate about manufacturing transformation,Manufacturing,24382849,None,0
+james.hernandez@otherstechnologies.com,CFO,Others Technologies,Building the future of energy,Energy,49397339,Active,4484283
+mary.bowman@talkpartners.com,President,Talk Partners,Passionate about tech transformation,Tech,37099677,None,0
+olivia.santos@feelgroup.com,CEO,Feel Group,Experienced manufacturing executive,Manufacturing,4817927,None,0
+krista.lowery@successllc.com,VP of Sales,Success LLC,Experienced energy executive,Energy,45151293,Pending,4263089
+lisa.gonzalez@citytechnologies.com,CFO,City Technologies,Building the future of retail,Retail,33710434,Active,2528091
+tonya.little@figurellc.com,Founder,Figure LLC,Experienced saas executive,SaaS,12550858,None,0
+alyssa.miller@lightllc.com,CEO,Light LLC,Experienced logistics executive,Logistics,18537673,Pending,1965998
+tina.conner@bytechnologies.com,Marketing Director,By Technologies,Focused on scaling tech operations,Tech,6774362,None,0
+felicia.cowan@informationpartners.com,CFO,Information Partners,Experienced energy executive,Energy,22646539,None,0
+donald.pearson@preventtechnologies.com,Marketing Director,Prevent Technologies,Driving growth for logistics solutions,Logistics,8123990,Active,1173029
+katherine.combs@couldinc.com,Marketing Director,Could Inc,Focused on scaling manufacturing operations,Manufacturing,29775261,None,0
+kenneth.bishop@eveningpartners.com,Operations Manager,Evening Partners,Driving growth for retail solutions,Retail,7526995,Pending,4578734
+cynthia.griffin@physicalgroup.com,CTO,Physical Group,Driving growth for logistics solutions,Logistics,20128177,Active,4172577
+robert.smith@yoursolutions.com,Founder,Your Solutions,Passionate about tech transformation,Tech,11147530,Pending,879553
+harold.perez@abilitytechnologies.com,CEO,Ability Technologies,Passionate about tech transformation,Tech,30185430,None,0
+katherine.mccall@windpartners.com,VP of Sales,Wind Partners,Driving growth for energy solutions,Energy,33260597,None,0
+gloria.arnold@althoughllc.com,CFO,Although LLC,Building the future of healthcare,Healthcare,12746157,Pending,575761
+timothy.carter@betweentechnologies.com,Operations Manager,Between Technologies,Driving growth for tech solutions,Tech,29650967,Active,3500066
+jonathon.baker@ballcorp.com,CEO,Ball Corp,Leading innovation in saas industry,SaaS,7919725,None,0
+robert.bray@employeeinc.com,CFO,Employee Inc,Driving growth for retail solutions,Retail,32477583,None,0
+john.jones@revealinc.com,VP of Sales,Reveal Inc,Leading innovation in energy industry,Energy,3762177,Pending,3983763
+valerie.wise@rolepartners.com,VP of Sales,Role Partners,Focused on scaling retail operations,Retail,30398150,Pending,3623591
+james.thomas@kitchencorp.com,VP of Sales,Kitchen Corp,Driving growth for logistics solutions,Logistics,19908498,None,0
+julie.nichols@benefitgroup.com,VP of Sales,Benefit Group,Focused on scaling saas operations,SaaS,12029232,Pending,866269
+antonio.cook@onellc.com,VP of Sales,One LLC,Building the future of tech,Tech,10736022,None,0
+amanda.holmes@whogroup.com,Operations Manager,Who Group,Leading innovation in manufacturing industry,Manufacturing,36983931,Active,4201763
+scott.anderson@interestingcorp.com,CTO,Interesting Corp,Passionate about energy transformation,Energy,48400275,None,0
+steven.bradley@informationcorp.com,CFO,Information Corp,Leading innovation in logistics industry,Logistics,46019538,None,0
+colleen.luna@wellsolutions.com,Marketing Director,Well Solutions,Passionate about tech transformation,Tech,44491206,Pending,564558
+tina.donaldson@wearcorp.com,Operations Manager,Wear Corp,Leading innovation in finance industry,Finance,44601076,Active,4628144
+jill.woods@coachllc.com,Marketing Director,Coach LLC,Leading innovation in manufacturing industry,Manufacturing,6926494,Pending,2630569
+alicia.carter@tabletechnologies.com,Marketing Director,Table Technologies,Focused on scaling retail operations,Retail,21024604,None,0
+ryan.sanders@justtechnologies.com,CEO,Just Technologies,Focused on scaling tech operations,Tech,41040902,Pending,4898708
+gary.villegas@newllc.com,CFO,New LLC,Driving growth for retail solutions,Retail,29962459,Active,2369989
+timothy.bradley@cityinc.com,Marketing Director,City Inc,Building the future of manufacturing,Manufacturing,6300914,Pending,220755
+joseph.harrison@hairsolutions.com,VP of Sales,Hair Solutions,Experienced manufacturing executive,Manufacturing,39902488,Active,4502552
+stephanie.berger@starinc.com,CEO,Star Inc,Focused on scaling logistics operations,Logistics,37558401,None,0
+albert.johnson@addresspartners.com,CTO,Address Partners,Building the future of retail,Retail,31225697,Pending,2636318
+nicole.tate@eightllc.com,CFO,Eight LLC,Experienced healthcare executive,Healthcare,40106379,None,0
+kenneth.warner@missioncorp.com,CFO,Mission Corp,Passionate about logistics transformation,Logistics,13261914,Active,2559083
+paul.gonzalez@mainsolutions.com,Marketing Director,Main Solutions,Driving growth for saas solutions,SaaS,18145847,Pending,2845066
+julie.schmidt@regiongroup.com,Marketing Director,Region Group,Driving growth for manufacturing solutions,Manufacturing,42606176,Active,4800495
+mathew.palmer@somethingtechnologies.com,Operations Manager,Something Technologies,Focused on scaling manufacturing operations,Manufacturing,27974079,Active,1093129
+matthew.evans@newllc.com,President,New LLC,Passionate about tech transformation,Tech,8518194,None,0
+chris.anderson@wishcorp.com,Marketing Director,Wish Corp,Passionate about saas transformation,SaaS,45799090,None,0
+jim.williams@tooinc.com,Operations Manager,Too Inc,Focused on scaling healthcare operations,Healthcare,21419187,Pending,4127331
+adrienne.alexander@coachtechnologies.com,President,Coach Technologies,Experienced healthcare executive,Healthcare,15065697,None,0
+henry.holmes@qualitycorp.com,CFO,Quality Corp,Building the future of saas,SaaS,18000113,Active,4628254
+joseph.thompson@yearllc.com,VP of Sales,Year LLC,Experienced healthcare executive,Healthcare,15000782,None,0
+maria.webb@weargroup.com,CTO,Wear Group,Experienced healthcare executive,Healthcare,11756006,Pending,3803973
+kristen.ramirez@throwcorp.com,CFO,Throw Corp,Driving growth for manufacturing solutions,Manufacturing,23396282,Pending,4132954
+christian.murray@publicpartners.com,CFO,Public Partners,Passionate about tech transformation,Tech,19503888,Pending,1814836
+jennifer.taylor@professionalsolutions.com,CTO,Professional Solutions,Leading innovation in healthcare industry,Healthcare,30103472,Active,3814605
+michael.compton@enjoytechnologies.com,President,Enjoy Technologies,Experienced retail executive,Retail,1196898,Pending,1120922
+peggy.thornton@preparegroup.com,CFO,Prepare Group,Building the future of logistics,Logistics,20461556,Pending,2824311
+sandra.mason@informationcorp.com,President,Information Corp,Passionate about tech transformation,Tech,4183822,None,0
+michael.campbell@agepartners.com,CEO,Age Partners,Driving growth for logistics solutions,Logistics,12912590,None,0
+mark.flores@fewtechnologies.com,President,Few Technologies,Focused on scaling logistics operations,Logistics,21949810,None,0
+jasmine.soto@besolutions.com,Operations Manager,Be Solutions,Focused on scaling tech operations,Tech,12188968,Pending,4947941
+stephanie.gomez@believegroup.com,Marketing Director,Believe Group,Leading innovation in finance industry,Finance,21330191,None,0
+angela.wolf@eveninc.com,VP of Sales,Even Inc,Experienced finance executive,Finance,32122383,None,0
+kayla.dougherty@admitsolutions.com,CTO,Admit Solutions,Building the future of retail,Retail,47856448,Active,2815666
+samuel.hester@reallyinc.com,Marketing Director,Really Inc,Passionate about energy transformation,Energy,39855408,Active,4010121
+nicholas.spence@restpartners.com,President,Rest Partners,Driving growth for logistics solutions,Logistics,23066791,Active,1378338
+charles.rodriguez@risesolutions.com,Marketing Director,Rise Solutions,Focused on scaling retail operations,Retail,22818095,Pending,1388931
+brandon.jensen@decadeinc.com,Marketing Director,Decade Inc,Experienced retail executive,Retail,49157237,Pending,856926
+tyrone.wilson@suchpartners.com,Founder,Such Partners,Driving growth for retail solutions,Retail,35520212,None,0
+matthew.mullins@buildingllc.com,Operations Manager,Building LLC,Driving growth for tech solutions,Tech,4004354,None,0
+john.house@tripllc.com,President,Trip LLC,Passionate about retail transformation,Retail,23888788,None,0
+tammy.johnson@presidenttechnologies.com,CFO,President Technologies,Experienced tech executive,Tech,45777773,Active,2495514
+michael.miller@simplyinc.com,Operations Manager,Simply Inc,Focused on scaling tech operations,Tech,8924981,Active,2030109
+beverly.mccormick@finesolutions.com,President,Fine Solutions,Building the future of retail,Retail,27440636,Active,1139282
+daniel.hoover@abilityllc.com,VP of Sales,Ability LLC,Leading innovation in energy industry,Energy,16055327,Pending,3090306
+kimberly.rodriguez@threatgroup.com,Operations Manager,Threat Group,Driving growth for retail solutions,Retail,15716901,None,0
+jodi.stephenson@waitcorp.com,CEO,Wait Corp,Leading innovation in logistics industry,Logistics,6932114,Active,704897
+janet.martin@containcorp.com,CEO,Contain Corp,Driving growth for finance solutions,Finance,47229304,Active,4504364
+rhonda.bell@artllc.com,CFO,Art LLC,Leading innovation in retail industry,Retail,23657803,Pending,978233
+emily.johnson@eyecorp.com,CEO,Eye Corp,Building the future of energy,Energy,17549161,Pending,4774019
+dennis.atkinson@variousgroup.com,Operations Manager,Various Group,Passionate about healthcare transformation,Healthcare,1657370,None,0
+christine.horn@alongllc.com,CTO,Along LLC,Focused on scaling healthcare operations,Healthcare,49796018,Pending,4412157
+molly.bush@nonecorp.com,CFO,None Corp,Building the future of retail,Retail,48153694,None,0
+charles.garcia@environmentalsolutions.com,CFO,Environmental Solutions,Building the future of energy,Energy,11266299,Pending,4045914
+amy.greene@spacegroup.com,Marketing Director,Space Group,Leading innovation in healthcare industry,Healthcare,31723517,None,0
+benjamin.jones@bigpartners.com,CFO,Big Partners,Passionate about manufacturing transformation,Manufacturing,31381319,Active,2735723
+james.brown@whosepartners.com,Marketing Director,Whose Partners,Passionate about retail transformation,Retail,14439507,Active,4529224
+monica.wood@companytechnologies.com,CEO,Company Technologies,Experienced finance executive,Finance,48119724,Active,1659029
+sarah.mcknight@duringtechnologies.com,Marketing Director,During Technologies,Driving growth for tech solutions,Tech,46249906,Pending,834229
+benjamin.hughes@uppartners.com,CTO,Up Partners,Leading innovation in healthcare industry,Healthcare,42668993,None,0
+rebecca.stanley@itechnologies.com,CEO,I Technologies,Driving growth for retail solutions,Retail,42867560,Pending,2417739
+kyle.sims@worrygroup.com,President,Worry Group,Building the future of finance,Finance,43392265,Pending,2050272
+matthew.lopez@fishpartners.com,VP of Sales,Fish Partners,Leading innovation in tech industry,Tech,37538720,Active,4202028
+rachel.sanchez@materialsolutions.com,CFO,Material Solutions,Focused on scaling tech operations,Tech,19739487,Pending,4667302
+kimberly.hunt@twollc.com,Founder,Two LLC,Driving growth for logistics solutions,Logistics,8276106,Active,271953
+amanda.thomas@wallsolutions.com,Marketing Director,Wall Solutions,Experienced healthcare executive,Healthcare,5146173,None,0
+claudia.thomas@researchsolutions.com,Marketing Director,Research Solutions,Passionate about logistics transformation,Logistics,12430098,Active,1951623
+lisa.burch@groupsolutions.com,Operations Manager,Group Solutions,Experienced energy executive,Energy,35103469,Active,1926406
+joshua.powers@teaminc.com,Operations Manager,Team Inc,Building the future of healthcare,Healthcare,33836223,Active,1871011
+cathy.edwards@fieldllc.com,VP of Sales,Field LLC,Leading innovation in tech industry,Tech,19947227,Active,3802860
+crystal.norton@brothersolutions.com,CTO,Brother Solutions,Leading innovation in tech industry,Tech,33217812,None,0
+angela.sharp@sectioninc.com,Operations Manager,Section Inc,Leading innovation in healthcare industry,Healthcare,21227925,Pending,4873349
+caleb.adams@firmsolutions.com,VP of Sales,Firm Solutions,Passionate about tech transformation,Tech,47427993,Active,1674586
+jeremy.smith@carrygroup.com,Founder,Carry Group,Focused on scaling manufacturing operations,Manufacturing,19302965,Active,755763
+monica.richardson@tonightpartners.com,CEO,Tonight Partners,Leading innovation in finance industry,Finance,39867942,Active,4990938
+matthew.anderson@wantinc.com,CTO,Want Inc,Focused on scaling finance operations,Finance,7203948,Active,2505402
+adrian.schneider@trueinc.com,CEO,True Inc,Leading innovation in tech industry,Tech,32298533,Pending,1105497
+sergio.crawford@casetechnologies.com,Founder,Case Technologies,Focused on scaling finance operations,Finance,24652489,None,0
+joel.buck@outcorp.com,VP of Sales,Out Corp,Driving growth for manufacturing solutions,Manufacturing,4705821,Pending,4690952
+judith.wolfe@teamgroup.com,CFO,Team Group,Leading innovation in logistics industry,Logistics,21278169,None,0
+paula.young@understandsolutions.com,CTO,Understand Solutions,Passionate about energy transformation,Energy,27647939,Active,509177
+kevin.silva@leaderllc.com,CEO,Leader LLC,Passionate about finance transformation,Finance,31095815,Active,2997601
+kevin.guzman@planinc.com,Founder,Plan Inc,Experienced retail executive,Retail,46411680,Pending,420442
+eric.cochran@groundllc.com,Founder,Ground LLC,Driving growth for manufacturing solutions,Manufacturing,34749355,Active,154519
+jennifer.roberts@wheresolutions.com,Marketing Director,Where Solutions,Leading innovation in finance industry,Finance,49414725,None,0
+bethany.bailey@weektechnologies.com,VP of Sales,Week Technologies,Building the future of healthcare,Healthcare,22932773,Active,3218352
+maria.schultz@tonightllc.com,Marketing Director,Tonight LLC,Passionate about finance transformation,Finance,12764716,Active,2604697
+christopher.gonzalez@entireinc.com,Marketing Director,Entire Inc,Building the future of tech,Tech,49809153,Pending,3377048
+walter.tran@roleinc.com,Marketing Director,Role Inc,Passionate about energy transformation,Energy,6216323,Active,3715762
+jeffrey.dominguez@maybetechnologies.com,VP of Sales,Maybe Technologies,Driving growth for energy solutions,Energy,10129892,Pending,3413357
+olivia.richardson@babysolutions.com,Founder,Baby Solutions,Experienced finance executive,Finance,37244550,Active,3269855
+ann.robinson@congresscorp.com,CTO,Congress Corp,Focused on scaling tech operations,Tech,48903882,Active,4119970
+selena.murphy@spendsolutions.com,President,Spend Solutions,Passionate about logistics transformation,Logistics,35063972,Active,4481117
+anthony.hayes@moneyllc.com,Operations Manager,Money LLC,Focused on scaling manufacturing operations,Manufacturing,48981407,None,0
+david.rivers@involvesolutions.com,Marketing Director,Involve Solutions,Driving growth for energy solutions,Energy,1656384,None,0
+melanie.williams@managerinc.com,Marketing Director,Manager Inc,Focused on scaling tech operations,Tech,24376010,Active,4255181
+frank.johnston@campaignsolutions.com,Marketing Director,Campaign Solutions,Experienced finance executive,Finance,34527357,Active,563733
+brooke.west@blacksolutions.com,Founder,Black Solutions,Leading innovation in retail industry,Retail,44623579,None,0
+nicole.johnston@radiogroup.com,Operations Manager,Radio Group,Focused on scaling tech operations,Tech,48276783,Pending,4028892
+jason.vang@congressinc.com,Marketing Director,Congress Inc,Focused on scaling saas operations,SaaS,17893206,None,0
+jeffrey.savage@sortinc.com,CEO,Sort Inc,Leading innovation in manufacturing industry,Manufacturing,42287074,Active,1908064
+ernest.wallace@ordertechnologies.com,Founder,Order Technologies,Driving growth for energy solutions,Energy,16083566,Pending,1024681
+joel.palmer@nicepartners.com,Operations Manager,Nice Partners,Experienced healthcare executive,Healthcare,33458329,None,0
+susan.waters@falltechnologies.com,Operations Manager,Fall Technologies,Experienced finance executive,Finance,27836321,Pending,4964979
+michelle.johnston@majoritytechnologies.com,CEO,Majority Technologies,Leading innovation in saas industry,SaaS,9924220,None,0
+abigail.clark@discussinc.com,President,Discuss Inc,Passionate about tech transformation,Tech,8882125,Active,3750154
+michael.estrada@amonginc.com,President,Among Inc,Leading innovation in logistics industry,Logistics,33680664,None,0
+michelle.quinn@educationgroup.com,Marketing Director,Education Group,Focused on scaling finance operations,Finance,28708168,None,0
+christopher.white@shortinc.com,CFO,Short Inc,Experienced manufacturing executive,Manufacturing,20712313,None,0
+james.gray@lettergroup.com,CFO,Letter Group,Leading innovation in retail industry,Retail,37321929,None,0
+john.day@fillpartners.com,CTO,Fill Partners,Building the future of manufacturing,Manufacturing,21368350,None,0
+amy.dyer@admitsolutions.com,CFO,Admit Solutions,Experienced tech executive,Tech,43297236,Active,3653166
+laura.barnett@interviewllc.com,Marketing Director,Interview LLC,Experienced finance executive,Finance,25365863,None,0
+donna.jones@begroup.com,President,Be Group,Focused on scaling logistics operations,Logistics,40118681,None,0
+lori.howard@exampletechnologies.com,Marketing Director,Example Technologies,Driving growth for tech solutions,Tech,26834716,Active,3236456
+whitney.perkins@participanttechnologies.com,Operations Manager,Participant Technologies,Leading innovation in finance industry,Finance,34942027,Pending,2661886
+steven.campbell@headsolutions.com,CEO,Head Solutions,Building the future of saas,SaaS,36371803,Active,4429090
+david.choi@eatinc.com,CTO,Eat Inc,Driving growth for finance solutions,Finance,31207505,None,0
+patricia.wang@respondcorp.com,VP of Sales,Respond Corp,Passionate about manufacturing transformation,Manufacturing,13923547,None,0
+felicia.elliott@similargroup.com,Operations Manager,Similar Group,Building the future of tech,Tech,18858913,Active,3282031
+laura.patton@authoritytechnologies.com,VP of Sales,Authority Technologies,Leading innovation in saas industry,SaaS,44319379,None,0
+ryan.thomas@coursepartners.com,President,Course Partners,Experienced tech executive,Tech,9745700,None,0
+sean.mitchell@hearllc.com,President,Hear LLC,Building the future of healthcare,Healthcare,1326605,Pending,3507606
+tammy.richard@travelsolutions.com,Operations Manager,Travel Solutions,Passionate about tech transformation,Tech,12036985,Pending,3937612
+robert.kent@communityinc.com,VP of Sales,Community Inc,Leading innovation in tech industry,Tech,11571107,None,0
+brenda.moreno@pmpartners.com,Founder,Pm Partners,Experienced energy executive,Energy,28926576,None,0
+scott.cunningham@knowledgepartners.com,Marketing Director,Knowledge Partners,Experienced energy executive,Energy,29640813,None,0
+samantha.graves@localsolutions.com,Operations Manager,Local Solutions,Leading innovation in tech industry,Tech,37369032,Active,2121088
+daniel.bond@stargroup.com,VP of Sales,Star Group,Building the future of retail,Retail,6453817,Pending,348870
+vincent.king@cupinc.com,Founder,Cup Inc,Leading innovation in saas industry,SaaS,20933442,Pending,606003
+bianca.hines@finesolutions.com,Founder,Fine Solutions,Driving growth for energy solutions,Energy,13395900,Active,953087
+dawn.rodriguez@yearcorp.com,CTO,Year Corp,Leading innovation in logistics industry,Logistics,38967805,Active,481340
+erika.martin@yesinc.com,Founder,Yes Inc,Building the future of manufacturing,Manufacturing,39666349,Pending,3439907
+suzanne.robinson@pagepartners.com,VP of Sales,Page Partners,Passionate about finance transformation,Finance,28874126,None,0
+edward.fernandez@ideapartners.com,CFO,Idea Partners,Experienced manufacturing executive,Manufacturing,48428125,Pending,3633922
+katherine.miller@weightinc.com,VP of Sales,Weight Inc,Passionate about energy transformation,Energy,25355627,Active,1260590
+angela.forbes@fewgroup.com,Marketing Director,Few Group,Passionate about energy transformation,Energy,41909243,Pending,3469282
+lisa.elliott@clearinc.com,VP of Sales,Clear Inc,Passionate about finance transformation,Finance,35133049,None,0
+cody.hess@realitycorp.com,Operations Manager,Reality Corp,Leading innovation in logistics industry,Logistics,5822065,None,0
+jennifer.davis@couldgroup.com,Founder,Could Group,Experienced energy executive,Energy,13088517,Pending,2589436
+elizabeth.flores@purposepartners.com,VP of Sales,Purpose Partners,Building the future of finance,Finance,39716231,Active,1040916
+david.jacobs@nighttechnologies.com,Marketing Director,Night Technologies,Building the future of retail,Retail,31412559,Active,3830938
+jared.jackson@whosolutions.com,Operations Manager,Who Solutions,Building the future of manufacturing,Manufacturing,42660654,Active,630194
+sarah.welch@hisinc.com,CFO,His Inc,Focused on scaling saas operations,SaaS,16968102,None,0
+stacy.bates@guessgroup.com,Founder,Guess Group,Building the future of tech,Tech,33221573,None,0
+susan.dean@keypartners.com,Operations Manager,Key Partners,Building the future of saas,SaaS,7972573,Pending,3984348
+richard.mclaughlin@causetechnologies.com,Marketing Director,Cause Technologies,Passionate about manufacturing transformation,Manufacturing,42617548,Active,2893126
+shawn.martin@decadetechnologies.com,Founder,Decade Technologies,Passionate about logistics transformation,Logistics,34719494,None,0
+sabrina.winters@remembersolutions.com,CTO,Remember Solutions,Passionate about retail transformation,Retail,23040243,Active,4310930
+rebecca.mitchell@countryllc.com,Marketing Director,Country LLC,Building the future of saas,SaaS,42599027,None,0
+ana.anthony@lookgroup.com,Operations Manager,Look Group,Leading innovation in tech industry,Tech,36794461,None,0
